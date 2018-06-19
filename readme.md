@@ -1,3 +1,36 @@
+
+![Web Developer Roadmap](https://i.imgur.com/WDzr1dx.png)
+
+> An Arabic translation of the [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) in 2018 by [kamranahmedse](https://github.com/kamranahmedse). 
+
+<p dir='rtl' align='right'>
+أدناه ستجد مجموعة من الرسومات البيانية التي توضح المسارات التي يمكنك اتباعها والتقنيات الي تحتاجها لتصبح مطورًا للويب، سواءً لتطوير الواجهة الأمامية أو الطرف الخلفي للخادم أو عمليات التطوير. وقد قمت بعمل هذه الرسومات من أجل أحد أساتذتي الذي كان يرغب في مشاركتها مع طلابه.
+</p>
+
+<sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
+
+## <h2 dir='rtl' align='right'>إخلاء المسؤولية</h2>
+> <p dir='rtl' align='right'> الغرض من  هذه الخارطة هو إعطائك فكرة وتصور وتوجيهك في حال إرتباكك حول الخطوة القادمة وليس لتشجيعك على اختيار ما هو رائج وسائد. ينبغي عليك استيعاب سبب اختيار تقنية ما لتحقيق غرض معين وتذكر أن الرائج والسائد لا يعنه أنه الأنسب للقيام بالعمل.  
+</p>
+
+## <h2 dir='rtl' align='right'>🚀 المقدمة Introduction </h2>
+
+![](./images/intro-ar.png)
+
+## <h2 dir='rtl' align='right'> 🎨 خارطة الواجهة الأمامية Frontend Roadmap </h2>
+
+![](./images/frontend-ar.png)
+
+## <h2 dir='rtl' align='right'> 👽 خارطة الطرف الخلفي Back-end Roadmap </h2> 
+
+![](./images/backend-ar.png)
+
+## <h2 dir='rtl' align='right'> 👷 خارطة عمليات التطوير DevOps Roadmap </h2> 
+
+![](./images/devops-ar.png)
+
+
+# Original Readme
 ![Web Developer Roadmap](https://i.imgur.com/oxsayps.png)
 
 > Roadmap to becoming a web developer in 2018
